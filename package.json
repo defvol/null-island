@@ -1,7 +1,7 @@
 {
-  "name": "npm-template",
+  "name": "null-island",
   "version": "1.0.0",
-  "description": "A minimalist template to build npm modules.",
+  "description": "Generate GeoJSON features from the Republic of Null Island.",
   "bin": {
     "hello": "./cli.js"
   },
@@ -10,10 +10,9 @@
     "test": "tape test.js"
   },
   "keywords": [
-    "boilerplate",
-    "minimalist",
-    "npm",
-    "template"
+    "cli",
+    "geojson",
+    "stream"
   ],
   "author": "Ro Wilhelmy <rwilhelmy@gmail.com> (http://wilhel.me)",
   "license": "ISC",
