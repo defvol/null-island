@@ -1,4 +1,6 @@
-npm-template
+[![Build Status](https://travis-ci.org/rodowi/npm-template.svg?branch=master)](https://travis-ci.org/rodowi/npm-template)
+
+# npm-template
 
 A minimalist copypasta for npm modules.
 
