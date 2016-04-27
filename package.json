@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Generate GeoJSON features from the Republic of Null Island.",
   "bin": {
-    "hello": "./cli.js"
+    "null-island": "./cli.js"
   },
   "main": "index.js",
   "scripts": {
